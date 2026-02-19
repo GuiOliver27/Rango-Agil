@@ -1,0 +1,6 @@
+@RangoAgilAPI_HostAddress = http://localhost:5048
+
+GET {{RangoAgilAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
