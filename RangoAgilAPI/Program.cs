@@ -12,22 +12,16 @@ var app = webApp.Build();
 
 // Configure the HTTP request pipeline.
 
-app.UseHttpsRedirection();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
 app.MapGet("/", () => "Hello World!");
 
-app.MapGet("/rangos", () => {
+app.MapGet("/rangos/{numero}/{nome}", (int numero, string nome) => {
     
-    return "Está funcionando muito bem!!";
+    return nome + " " + numero;
+});
+
+app.MapGet("/rangos", () => {
+    return "Está funcionando MUITO bem!!!";
 });
 
 app.Run();
 
-internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary) {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
