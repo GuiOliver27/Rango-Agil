@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\migrations\\20260225003251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|solutionrelative:rangoagilapi\\migrations\\20260225003251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\dbcontexts\\rangodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|solutionrelative:rangoagilapi\\dbcontexts\\rangodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C006FC5-D7E2-4C87-A6E9-BDF48D2005E7}|Itens de Solu\u00E7\u00E3o{2C006FC5-D7E2-4C87-A6E9-BDF48D2005E7}|D:\\Desenvolvimento\\Projetos\\RangoAgil\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C006FC5-D7E2-4C87-A6E9-BDF48D2005E7}|Itens de Solu\u00E7\u00E3o{2C006FC5-D7E2-4C87-A6E9-BDF48D2005E7}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|solutionrelative:rangoagilapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\migrations\\20260225003251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|solutionrelative:rangoagilapi\\migrations\\20260225003251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\dbcontexts\\rangodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|solutionrelative:rangoagilapi\\dbcontexts\\rangodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6AADD26-83E1-F6A1-AC22-8EBA603B8019}|RangoAgilAPI\\RangoAgilAPI.csproj|d:\\desenvolvimento\\projetos\\rangoagil\\rangoagilapi\\entities\\rango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-25T01:06:17.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RangoAgilAPI\\Program.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Program.cs",
+              "RelativeToolTip": "RangoAgilAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:16:12.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RangoAgilAPI\\appsettings.json",
+              "ToolTip": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\appsettings.json",
+              "RelativeToolTip": "RangoAgilAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-24T00:44:48.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20260225003251_Initial.cs",
               "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Migrations\\20260225003251_Initial.cs",
               "RelativeDocumentMoniker": "RangoAgilAPI\\Migrations\\20260225003251_Initial.cs",
@@ -55,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RangoDbContext.cs",
               "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\DbContexts\\RangoDbContext.cs",
               "RelativeDocumentMoniker": "RangoAgilAPI\\DbContexts\\RangoDbContext.cs",
@@ -68,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Rango.cs",
               "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Entities\\Rango.cs",
               "RelativeDocumentMoniker": "RangoAgilAPI\\Entities\\Rango.cs",
@@ -80,31 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Program.cs",
-              "RelativeDocumentMoniker": "RangoAgilAPI\\Program.cs",
-              "ToolTip": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Program.cs",
-              "RelativeToolTip": "RangoAgilAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T00:16:12.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "RangoAgilAPI\\appsettings.json",
-              "ToolTip": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\appsettings.json",
-              "RelativeToolTip": "RangoAgilAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-24T00:44:48.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Ingrediente.cs",
               "DocumentMoniker": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Entities\\Ingrediente.cs",
               "RelativeDocumentMoniker": "RangoAgilAPI\\Entities\\Ingrediente.cs",

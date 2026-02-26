@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "RangoAgilAPI\\Program.cs",
               "ToolTip": "D:\\Desenvolvimento\\Projetos\\RangoAgil\\RangoAgilAPI\\Program.cs",
               "RelativeToolTip": "RangoAgilAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T00:16:12.963Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "RangoAgilAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-24T00:44:48.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T00:44:48.021Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "RangoAgilAPI\\Migrations\\20260225003251_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T00:32:52.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T00:32:52.096Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "RangoAgilAPI\\DbContexts\\RangoDbContext.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAAwFoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T00:53:00.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T00:53:00.142Z"
             },
             {
               "$type": "Document",
