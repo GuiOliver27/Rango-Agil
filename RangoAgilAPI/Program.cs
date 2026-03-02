@@ -14,13 +14,12 @@ var app = webApp.Build();
 
 app.MapGet("/", () => "Hello World!");
 
-app.MapGet("/rangos/{numero}/{nome}", (int numero, string nome) => {
-    
-    return nome + " " + numero;
+app.MapGet("/rango/{id}", (RangoDbContext rangoDbContext, int id) => {
+    return rangoDbContext.Rangos.FirstOrDefault(x => x.Id == id);
 });
 
-app.MapGet("/rangos", () => {
-    return "Está funcionando MUITO bem!!!";
+app.MapGet("/rangos", (RangoDbContext rangoDbContext) => {
+    return rangoDbContext.Rangos;
 });
 
 app.Run();
