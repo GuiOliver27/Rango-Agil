@@ -15,16 +15,14 @@ var app = webApp.Build();
 
 app.MapGet("/", () => "Hello World!");
 
-app.MapGet("/rango/{nome}", async (RangoDbContext rangoDbContext, string nome) => {
-    return await rangoDbContext.Rangos.FirstOrDefaultAsync(x => x.Nome == nome);
+app.MapGet("/rangos", async (RangoDbContext rangoDbContext, [FromQuery(Name = "name")]string rangoNome) => {
+    return await rangoDbContext.Rangos
+                                .Where(x => x.Nome.Contains(rangoNome))
+                                .ToListAsync();
 });
 
-app.MapGet("/rango", async (RangoDbContext rangoDbContext, [FromHeader(Name = "RangoId")]int id) => {
+app.MapGet("/rango/{id:int}", async (RangoDbContext rangoDbContext, int id) => {
     return await rangoDbContext.Rangos.FirstOrDefaultAsync(x => x.Id == id);
-});
-
-app.MapGet("/rangos", async (RangoDbContext rangoDbContext) => {
-    return await rangoDbContext.Rangos.ToListAsync();
 });
 
 app.Run();
